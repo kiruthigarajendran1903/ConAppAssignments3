@@ -1,0 +1,8 @@
+D:\ConAssignmemts3\ConAssignmemts3\bin\Debug\ConAssignmemts3.exe.config
+D:\ConAssignmemts3\ConAssignmemts3\bin\Debug\ConAssignmemts3.exe
+D:\ConAssignmemts3\ConAssignmemts3\bin\Debug\ConAssignmemts3.pdb
+D:\ConAssignmemts3\ConAssignmemts3\obj\Debug\ConAssignmemts3.csproj.AssemblyReference.cache
+D:\ConAssignmemts3\ConAssignmemts3\obj\Debug\ConAssignmemts3.csproj.SuggestedBindingRedirects.cache
+D:\ConAssignmemts3\ConAssignmemts3\obj\Debug\ConAssignmemts3.csproj.CoreCompileInputs.cache
+D:\ConAssignmemts3\ConAssignmemts3\obj\Debug\ConAssignmemts3.exe
+D:\ConAssignmemts3\ConAssignmemts3\obj\Debug\ConAssignmemts3.pdb
